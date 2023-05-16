@@ -21,4 +21,4 @@ function rate(winRate, loseRate) {
     return loseRate;
   }
 }
-console.log(rate(0, 5));
+console.log(rate(30, 50));

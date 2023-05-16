@@ -10,4 +10,4 @@ function fib(n) {
   return b;
 }
 
-console.log(fib(8));
+console.log(fib(5));
